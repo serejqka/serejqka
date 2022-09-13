@@ -8,6 +8,7 @@ I am engaged in **frontend development for more 1.5 years**, I also have **fulls
 - Develop functional components on React;
 - Develop the client logic of the application;
 - Configure client-server interaction.
+
 I am looking for a job in a company with a strong team, where projects will be aimed at scaling and improving the market.
 
 ## 🛠️ Skills
