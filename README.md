@@ -46,6 +46,11 @@ I am looking for a job in a company with a strong team, where projects will be a
 ![git](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![rest](https://img.shields.io/badge/REST-333333?style=for-the-badge&logo=rest&logoColor=2175b8)
 
+### Study
+![typescript](https://img.shields.io/badge/Typescript-3178c5?style=for-the-badge&logo=Typescript&logoColor=ffffff)
+![reactnative](https://img.shields.io/badge/react%20native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nextjs](https://img.shields.io/badge/nextjs-f5f5dc?style=for-the-badge&logo=next.js&logoColor=333333)
+
 ## 🛠️ Contacts
 -   **Mail:** serejqkawork@yandex.ru
 -   **Telegram:** [@serejqka](https://t.me/serejqka)
