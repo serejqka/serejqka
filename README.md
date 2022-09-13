@@ -49,5 +49,5 @@ I am looking for a job in a company with a strong team, where projects will be a
 ## 🛠️ Contacts
 -   **Mail:** serejqkawork@yandex.ru
 -   **Telegram:** [@serejqka](https://t.me/serejqka)
--   **Portfolio:**[serejqka.com](https://serejqka.herokuapp.com/)
+-   **Portfolio:** [serejqka.com](https://serejqka.herokuapp.com/)
 
