@@ -51,7 +51,7 @@ I am looking for a job in a company with a strong team, where projects will be a
 ![reactnative](https://img.shields.io/badge/react%20native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextjs](https://img.shields.io/badge/next.js-f5f5dc?style=for-the-badge&logo=next.js&logoColor=333333)
 
-## 🛠️ Contacts
+## 🔗 Contacts
 -   **Mail:** serejqkawork@yandex.ru
 -   **Telegram:** [@serejqka](https://t.me/serejqka)
 -   **Portfolio:** [serejqka.com](https://serejqka.herokuapp.com/)
