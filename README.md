@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 ## 🚀 About Me
-I am engaged in **frontend development for more 2 years**, I also have **fullstack development experience**. For me, development is like a journey - it inspires and motivates the process, and the result gives satisfaction. I like to work in a burning team, solve complex problems and find affordable solutions.
+I am engaged in **frontend development for more 4 years**, I also have **fullstack development experience**. For me, development is like a journey - it inspires and motivates the process, and the result gives satisfaction. I like to work in a burning team, solve complex problems and find affordable solutions.
 
 **I can:**
 - Develop functional components on React;
